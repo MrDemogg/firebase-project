@@ -1,0 +1,16 @@
+.films-card {
+    width: 80%;
+    height: 600px;
+    border: 5px solid black;
+    margin: 100px auto;
+}
+
+.films-card__create {
+    width: 95%;
+    margin: 10px auto
+}
+
+.films-card__list {
+    overflow-y: scroll;
+    height: 500px;
+}
